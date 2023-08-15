@@ -1,3 +1,5 @@
 Belajar Github
 Bekerja dengan team
 Belajar Javascript
+Belajar Database
+Belajar Framework
